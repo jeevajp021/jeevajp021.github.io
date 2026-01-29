@@ -1,50 +1,74 @@
 ---
 layout: default
-title: Jeeva's Portfolio
+title: Jeeva J P | Portfolio
 ---
 
-# Hi, I'm Jeeva.
-### 🛡️ Cyber Security Student | Cloud Automation | Python Dev
+# Hi, I'm Jeeva J P  
+### 🛡️ Cyber Security Student | ☁️ Cloud & Networking | 🐧 Linux Enthusiast  
 
-I am a Computer Science Engineering student bridging the gap between **Cyber Security** and **Automation**. I build tools that secure workflows and automate complex cloud tasks.
+I am a Computer Science (Cyber Security) student passionate about building **secure, intelligent, and scalable systems**. My work focuses on the intersection of **Cybersecurity, Networking, Cloud Infrastructure, and AI-driven security solutions**.
 
-[Detailed Resume (PDF)](#) | [LinkedIn Profile](https://www.linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username)
+I enjoy understanding how systems work internally, how they fail under attack, and how to design them to be resilient.
+
+[📄 Detailed Resume (PDF)](#) | [💼 LinkedIn Profile](https://www.linkedin.com/in/jeeva-jp) | [💻 GitHub Profile](https://github.com/jeevajp021)
 
 ---
 
 ## 🚀 Key Projects
 
-### 1. Azure Entra ID Automation Tool
-**Tech:** Python, Microsoft Graph API, XML, OAuth 2.0
-A security automation tool designed to migrate legacy user data into the cloud.
-* **The Problem:** Manual entry of user data into Azure AD was slow and error-prone.
-* **The Solution:** Built a middleware script that parses complex XML schemas (20+ attributes) and auto-provisions users via API.
-* **Impact:** secure, consistent, and audit-ready user onboarding.
-[View Code on GitHub](https://github.com/your-username/azure-entra-user-automation)
+### 🧠 AI-Driven Network Anomaly Detection Framework  
+**Tech:** Python, Network Analysis, Machine Learning Concepts  
+An intelligent security system designed to detect advanced threats that mimic legitimate user behavior in hybrid/cloud networks.  
 
-### 2. Smart Traffic Emergency System
-**Tech:** IoT Concepts, Logic Design, Automation
-An intelligent traffic management system designed to save lives.
-* **The Problem:** Emergency vehicles often get stuck in traffic, delaying critical response.
-* **The Solution:** A logic-based system that detects emergency signals and automates traffic light priority.
-[View Project](#)
-
-### 3. SafeGrid / LiveLineGuardian
-**Tech:** Python, Streamlit, Data Analytics
-A real-time energy monitoring dashboard.
-* **The Solution:** Created a user-friendly interface using Streamlit to visualize power grid data and potential hazards.
+* **The Problem:** Modern attackers hide inside normal-looking traffic, bypassing traditional rule-based detection.  
+* **The Solution:** A behavioral anomaly detection framework that monitors network patterns and identifies suspicious deviations.  
+* **Focus:** High-precision detection on real threat traffic in production-like environments.  
+* **Domain:** AI + Cybersecurity + Network Defense  
 
 ---
 
-## 🛠️ Technical Skills
-* **Cloud Security:** Microsoft Entra ID, Azure, IAM Concepts.
-* **Languages:** Python (Automation & Scripting), C, SQL.
-* **Tools:** Linux (Kali/Ubuntu), Wireshark, Burp Suite, Streamlit.
-* **Certifications:** [Mention any certs if you have them, e.g., Azure Fundamentals]
+## 🛠️ Technical Skills  
+
+### 🔐 Cybersecurity & Networking  
+Kali Linux • Metasploit • Nmap • Wireshark • Vulnerability Analysis • Network Scanning  
+
+### ☁️ Cloud & Systems  
+Cloud fundamentals • Infrastructure security concepts • Linux systems  
+
+### 💻 Programming  
+Java • C++ • HTML • CSS  
+
+### 🌐 Web & Backend  
+React.js • Spring Boot • REST APIs • MySQL
 
 ---
 
-## 📫 Contact Me
-Ready to work on secure automation and cloud engineering roles.
-* **Email:** your.email@example.com
-* **Location:** India
+## 🏆 Workshops & Technical Exposure  
+
+* 🖥️ IBM Z Datathon – IBM LinuxONE & Cloud Analytics
+* 🔐 Ethical Hacking & Cyber Security Workshop – IIT Madras
+* 🧩 IEEE-IC Standards Workshop & Hackathon    
+* 📡 Network Analysis Workshop – PSG College of Technology  
+
+---
+
+## 🎯 Career Focus  
+
+Aspiring to work as a **Cybersecurity Engineer / Cloud Security Specialist** in areas such as:
+
+* AI-powered threat detection  
+* Network monitoring & defense  
+* Cloud infrastructure security  
+* Vulnerability assessment & penetration testing  
+* Secure system architecture  
+
+I aim to contribute where **security, cloud, networking, and AI intersect**.
+
+---
+
+## 📫 Contact  
+
+Open to opportunities, collaborations, and security-focused projects.  
+
+* **Email:** jeevajp021@gmail.com  
+* **Location:** Coimbatore, India  
