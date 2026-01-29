@@ -27,6 +27,27 @@ An intelligent security system designed to detect advanced threats that mimic le
 
 ---
 
+### ☁️ Azure Entra ID Automation Tool  
+**Tech:** Python, Microsoft Graph API, XML, OAuth 2.0  
+A cloud security automation tool designed to migrate and manage user identities efficiently.
+
+* **Problem:** Manual user provisioning in cloud identity systems is slow and error-prone.  
+* **Solution:** Developed an automation script that parses complex XML schemas and provisions users via API.  
+* **Impact:** Secure, consistent, and audit-ready identity onboarding.  
+* **Domain:** Cloud Security + Automation  
+
+---
+
+### ⚡ SafeGrid – Live Energy Monitoring Dashboard  
+**Tech:** Python, Streamlit, Data Analytics  
+A real-time monitoring dashboard designed to visualize power grid data and identify potential risks.
+
+* **Solution:** Built an interactive interface to track system parameters and highlight anomalies.  
+* **Focus:** Data visualization and safety monitoring.  
+* **Domain:** Analytics + Monitoring Systems  
+
+---
+
 ## 🛠️ Technical Skills  
 
 ### 🔐 Cybersecurity & Networking  
