@@ -10,7 +10,7 @@ I am a Computer Science (Cyber Security) student passionate about building **sec
 
 I enjoy understanding how systems work internally, how they fail under attack, and how to design them to be resilient.
 
-[📄 Detailed Resume (PDF)](#) | [💼 LinkedIn Profile](https://www.linkedin.com/in/jeeva-jp) | [💻 GitHub Profile](https://github.com/jeevajp021)
+[📄 Detailed Resume (PDF)](https://drive.google.com/file/d/12Xl1jSNAqx9V4wheiUPPDUQpLdORhS73/view?usp=drive_link) | [💼 LinkedIn Profile](https://www.linkedin.com/in/jeeva-jp) | [💻 GitHub Profile](https://github.com/jeevajp021)
 
 ---
 
